@@ -1,0 +1,47 @@
+* { 
+	margin: 0;
+
+	padding: 0;
+}
+
+body{ 
+	background-color: #f3f3f3;
+	text-align: center;
+ }
+
+.survey h1{ 
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #a9d7e9;
+
+ }
+
+.name{
+	background-color: #f3f3f3; 
+}
+
+.name h2{ 
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+.name label{ 
+	padding-right: 20px;
+	margin-left: 150px;
+ }
+.name input{
+	width: 230px;
+	height: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+.scale{
+	padding-right: 120px;
+	margin-left: 90px;
+ }
+
+ .scale input{
+ 	width: 230px;
+	height: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+ }
